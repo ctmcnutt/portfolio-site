@@ -13,3 +13,4 @@ Personal portfolio website that is focused on showing framework competency demon
 ```bash
 npm install
 npm run dev
+```
